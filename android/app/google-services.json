@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409608066572",
+    "project_id": "ecom-vendoranduserside",
+    "storage_bucket": "ecom-vendoranduserside.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409608066572:android:f915827e583532ba808029",
+        "android_client_info": {
+          "package_name": "com.ecom_vendorside"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409608066572-0noosfp7cr9aodpmvsvmmjvikrag57dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7LY6ImadHSI5X8-2l0UqxWshAHN6arhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409608066572-0noosfp7cr9aodpmvsvmmjvikrag57dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
